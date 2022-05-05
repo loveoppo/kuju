@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/hleiur345rwr/newsy",
-  "repository": "https://github.com/hleiur345rwr/newsy",
+  "website": "https://github.com/loveoppo/kuju",
+  "repository": "https://github.com/loveoppo/kuju",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
